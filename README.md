@@ -1,0 +1,4 @@
+fdeluxe
+=======
+
+checkers deluxe game
